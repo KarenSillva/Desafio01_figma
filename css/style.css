@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Lexend+Deca&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Lexend Deca';
+    font-weight: 400;
+}
+
+.container{
+    height: 180px;
+    width: 100%;
+    min-width: 550px;
+    background: linear-gradient(270deg, #3EA1DB 0%, #574AE8 100%);
+}
+
+.logo{
+    color: #fff;
+    display: flex;
+    
+    justify-content: space-around;
+    justify-items: center;
+    padding-top: 2.3rem;
+    font-size: 15px;
+}
+
+
+.pesquisa input{
+    border: none;
+    position: absolute;
+    width: 770px;
+    height: 50px;
+    margin-top: 30px;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+#txt-pesquisa{
+    border: none;     
+    opacity: 50%;
+    font-size: 16px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    position: absolute;
+    left: 290px;
+}
+
+::placeholder{
+    color: #FFF;
+    text-align: left;
+    border: none;
+    
+}
+
+#container-principal{
+  background: #F3F5F7;
+  width: 100%;
+  height: 923px;
+}
+
+.container-01{
+    position: relative;
+    width: 770px;
+    left: 290px;
+    height: 149px;
+    top: 60px;
+    background: #FFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+    line-height: 15px;
+}
+
+.container-01 h4{
+    color: #717171;
+    font-size: 15px;
+    line-height: 5px;
+    padding: 15px 15px;
+}
+
+
+.container-01 h2{
+    padding: 5px 15px;
+    font-size: 20px;
+    color: #1A202C;
+}
+
+.container-01 p{
+    padding: 15px;
+    font-size: 15px;
+    color: #717171;
+}
+    
+/*CONTAINER 02*/  
+
+.container-02{
+    position: relative;
+    width: 770px;
+    left: 290px;
+    height: 185px;
+    top: 105px;
+    background: #FFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.container-02 h4{
+    color: #717171;
+    font-size: 15px;
+    line-height: 5px;
+    padding: 15px 15px;
+}
+
+
+.container-02 h2{
+    padding: 5px 15px;
+    font-size: 20px;
+    color: #1A202C;
+}
+
+.container-02 p{
+    padding: 15px;
+    font-size: 15px;
+    color: #717171;
+}
+
+/*CONTAINER 03*/  
+
+.container-03{
+    position: relative;
+    width: 770px;
+    left: 290px;
+    height: 128px;
+    top: 150px;
+    background: #FFF;;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.container-03 h4{
+    color: #717171;
+    font-size: 15px;
+    line-height: 5px;
+    padding: 15px 15px
+}
+
+
+.container-03 h2{
+    padding: 5px 15px;
+    font-size: 20px;
+    color: #1A202C;
+}
+
+.container-03 p{
+    padding: 15px;
+    font-size: 15px;
+    color: #717171;
+}
+/*CONTAINER 04*/  
+
+.container-04{
+    position: relative;
+    width: 770px;
+    left: 290px;
+    height: 180px;
+    top: 190px;
+    background: #FFF;
+    box-shadow: 0px 0px 10px rgba(19, 19, 31, 0.05);
+    border-radius: 5px;
+}
+
+.container-04 h4{
+    color: #717171;
+    font-size: 15px;
+    line-height: 5px;
+    padding: 15px 15px
+}
+
+
+.container-04 h2{
+    padding: 5px 15px;
+    font-size: 20px;
+    color: #1A202C;
+}
+
+.container-04 p{
+    padding: 15px;
+    font-size: 15px;
+    color: #717171;
+    
+}
+  
+
+
+
+    
+
+    
+    
+
+
+    
+
